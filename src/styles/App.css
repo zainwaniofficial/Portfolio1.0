@@ -627,7 +627,7 @@ textarea {
     padding: 20px 0;
     align-items: center;
     justify-content: space-around;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     font-family: 'ubuntu';
     /* gap: 40px; */
 
@@ -644,7 +644,7 @@ textarea {
   }
 
   .blogs-data-container-2{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
     /* align-items: center; */
@@ -652,7 +652,7 @@ textarea {
     gap: 30px;
   }
   .bdc2-1{
-    border: 2px solid pink;
+    /* border: 2px solid pink; */
     color: #12F7D6;
     font-weight: 400;
     font-size: 22px;
